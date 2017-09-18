@@ -48,8 +48,7 @@ Features of the TS3 PHP Framework include:
 ## Useful Links 
 Visit the following pages for more information about the TS3 PHP Framework:
 
-- Online Documentation: [http://docs.planetteamspeak.com/ts3/php/framework/]
-  (http://docs.planetteamspeak.com/ts3/php/framework/)
+- [Online Documentation](http://docs.planetteamspeak.com/ts3/php/framework/)
 
 Speed up new development and reduce maintenance costs by using this nifty piece
 of software!
